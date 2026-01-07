@@ -7,6 +7,7 @@ Solutions to coding problems from LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0057-insert-interval](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |

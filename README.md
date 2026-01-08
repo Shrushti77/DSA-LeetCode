@@ -7,6 +7,7 @@ Solutions to coding problems from LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 ## Hash Table
@@ -24,5 +25,6 @@ Solutions to coding problems from LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

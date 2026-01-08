@@ -5,7 +5,7 @@ class Solution {
         // Edge case: if empty or single interval, return as is
         if (intervals.length <= 1) return intervals;
 
-        // Step 1: Sort intervals by start time
+        // Sort intervals by start time
         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
         List<int[]> merged = new ArrayList<>();
@@ -14,7 +14,7 @@ class Solution {
         int start = intervals[0][0];
         int end = intervals[0][1];
 
-        // Step 2: Iterate over remaining intervals
+        // Iterate over remaining intervals
         for (int i = 1; i < intervals.length; i++) {
             int currStart = intervals[i][0];
             int currEnd = intervals[i][1];

@@ -11,6 +11,7 @@ Solutions to coding problems from LeetCode.
 | [0057-insert-interval](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Solutions to coding problems from LeetCode.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -31,6 +33,7 @@ Solutions to coding problems from LeetCode.
 | [0056-merge-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |

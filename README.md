@@ -12,6 +12,7 @@ Solutions to coding problems from LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Solutions to coding problems from LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ Solutions to coding problems from LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +50,16 @@ Solutions to coding problems from LeetCode.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->

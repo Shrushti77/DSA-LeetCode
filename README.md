@@ -9,6 +9,7 @@ Solutions to coding problems from LeetCode.
 | [0001-two-sum](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0057-insert-interval) |
+| [0162-find-peak-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ Solutions to coding problems from LeetCode.
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |

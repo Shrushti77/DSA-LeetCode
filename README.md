@@ -64,4 +64,8 @@ Solutions to coding problems from LeetCode.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

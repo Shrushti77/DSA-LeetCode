@@ -1,8 +1,8 @@
-# DSA-LeetCode
+# DSA
 Solutions to coding problems from LeetCode.
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Topics
 ## Array
 |  |
 | ------- |

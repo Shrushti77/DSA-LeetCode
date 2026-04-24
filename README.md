@@ -2,11 +2,12 @@
 Solutions to coding problems from LeetCode.
 
 <!---LeetCode Topics Start-->
-# Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0057-insert-interval) |
 | [0162-find-peak-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0162-find-peak-element) |
@@ -21,6 +22,7 @@ Solutions to coding problems from LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -41,6 +43,7 @@ Solutions to coding problems from LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## String
@@ -50,6 +53,7 @@ Solutions to coding problems from LeetCode.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search
 |  |
@@ -68,4 +72,8 @@ Solutions to coding problems from LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0009-palindrome-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

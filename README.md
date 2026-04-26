@@ -10,6 +10,7 @@ Solutions to coding problems from LeetCode.
 | [0042-trapping-rain-water](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
@@ -44,6 +45,7 @@ Solutions to coding problems from LeetCode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## String

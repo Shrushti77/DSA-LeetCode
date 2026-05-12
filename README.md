@@ -16,6 +16,7 @@ Solutions to coding problems from LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrushti77/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shrushti77/DSA-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
